@@ -31,14 +31,15 @@ react-usecontext-task/
 ├── public/
 │   └── react.svg
 ├── src/
+│   ├── components/
+│   |   ├── Cart.jsx
+│   |   ├── CartContent.jsx
+|   |   └── ProductCard.jsx
 │   ├── data/
 |   |   └── product.json
 │   ├── App.css
 │   ├── App.jsx
-│   ├── Cart.jsx
-│   ├── CartContent.jsx
 │   ├── main.jsx
-|   └── ProductCard.jsx
 ├── .gitignore
 ├── index.html
 ├── package.json
